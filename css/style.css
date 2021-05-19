@@ -102,7 +102,7 @@ body {
 }
 
 hr {
-  width: 100%;
+  width: 0;
 }
 
 #gnb {
@@ -189,7 +189,7 @@ hr {
 
 /*section-house*/
 #house {
-  width: 95.28688524590164%;
+  width: 100%;
   max-width: 700px;
   margin: 0 auto;
   padding: 0;
@@ -240,7 +240,7 @@ hr {
 
 /*section-finance*/
 #finance {
-  width: 95.28688524590164%;
+  width: 100%;
   max-width: 700px;
   margin: 0 auto;
   margin-top: 30px;
